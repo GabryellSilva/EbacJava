@@ -1,6 +1,6 @@
-package EBAC.Modulo01.Test;
+package EBACsrc.Modulo01.Test;
 
-import EBAC.Modulo01.Domain.Anime;
+import EBACsrc.Modulo01.Domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

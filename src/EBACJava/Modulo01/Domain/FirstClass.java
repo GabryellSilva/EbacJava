@@ -1,4 +1,4 @@
-package EBAC.Modulo01.Domain;
+package EBACsrc.Modulo01.Domain;
 
 public class FirstClass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package EBAC.Modulo01.Domain.pacote1;
+package EBACsrc.Modulo01.Domain.pacote1;
 
 public class Classe2{
     private String propriedadePrivada;
