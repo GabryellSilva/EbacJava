@@ -42,7 +42,18 @@ public class Cliente {
     public String recuperarEndereco(){
         return "Seu enderço";
     }
+
+    /**
+     * @author Gabryell.Silva
+     *
+     * @return - retorna o valor Total
+     * @deprecated
+     * @see public int ValorTotal(int count)
+     */
     public int valorTotal(){
         return  20;
+    }
+    public int ValorTotal(int count){
+        return 100;
     }
 }
