@@ -49,6 +49,7 @@ public class CalculoMedia {
     public void setMediaEntreNotas(int mediaEntreNotas) {
         this.mediaEntreNotas = mediaEntreNotas;
     }
+
     //Métodos
 
     public void imprimeResultado(){

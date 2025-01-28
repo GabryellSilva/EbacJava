@@ -8,7 +8,4 @@ public class Cliente {
     private Boolean status =false;
     private Byte bi;
 
-    public static void main(String[] args) {
-        this.codigo.byteValue()
-    }
 }
