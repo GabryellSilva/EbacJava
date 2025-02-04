@@ -1,4 +1,4 @@
-package EBACJava;
+package EBACJava.Modulo03.Domain;
 
 public class Publica {
 

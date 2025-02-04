@@ -2,11 +2,10 @@ package EBACJava.Modulo03.Set;
 
 import EBACJava.Modulo03.Domain.Aluno;
 
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-import static EBACJava.Publica.marcaDoConsole;
+import static EBACJava.Modulo03.Domain.Publica.marcaDoConsole;
 
 public class ExemploHashSetAluno {
     public static void main(String[] args) {
