@@ -1,4 +1,4 @@
-package EBACJava.Modulo03.Exercicios.Coleções;
+package EBACJava.Modulo03.Exercicios.Coleções.Domain;
 
 import java.util.*;
 
